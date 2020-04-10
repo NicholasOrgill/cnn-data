@@ -1,0 +1,65 @@
+cifar,60000,0,2
+Train on 60000 samples, validate on 6000 samples
+Epoch 1/20
+ - 56s - loss: 0.1938 - accuracy: 0.9071 - val_loss: 0.0311 	- val_accuracy: 0.9882
+Epoch 2/20
+ - 56s - loss: 0.0172 - accuracy: 0.9941 - val_loss: 0.0029 	- val_accuracy: 0.9988
+Epoch 3/20
+ - 56s - loss: 0.0072 - accuracy: 0.9978 - val_loss: 0.0028 	- val_accuracy: 0.9995
+Epoch 4/20
+ - 56s - loss: 0.0047 - accuracy: 0.9985 - val_loss: 7.2184e-04 - val_accuracy: 0.9997
+Epoch 5/20
+ - 56s - loss: 0.0040 - accuracy: 0.9990 - val_loss: 0.0024 	- val_accuracy: 0.9992
+Epoch 6/20
+ - 56s - loss: 0.0040 - accuracy: 0.9989 - val_loss: 5.2312e-04 - val_accuracy: 0.9998
+Epoch 7/20
+ - 56s - loss: 0.0028 - accuracy: 0.9992 - val_loss: 7.0673e-04 - val_accuracy: 0.9997
+Epoch 8/20
+ - 56s - loss: 0.0025 - accuracy: 0.9992 - val_loss: 1.1959e-04 - val_accuracy: 1.0000
+Epoch 9/20
+ - 56s - loss: 0.0027 - accuracy: 0.9993 - val_loss: 4.2418e-04 - val_accuracy: 0.9998
+Epoch 10/20
+ - 56s - loss: 0.0026 - accuracy: 0.9994 - val_loss: 1.5226e-04 - val_accuracy: 1.0000
+Epoch 11/20
+ - 56s - loss: 0.0028 - accuracy: 0.9994 - val_loss: 9.6290e-04 - val_accuracy: 0.9997
+Epoch 12/20
+ - 56s - loss: 0.0016 - accuracy: 0.9995 - val_loss: 0.0036 	- val_accuracy: 0.9992
+Epoch 13/20
+ - 56s - loss: 0.0022 - accuracy: 0.9994 - val_loss: 8.8995e-05 - val_accuracy: 1.0000
+Epoch 14/20
+ - 56s - loss: 0.0022 - accuracy: 0.9996 - val_loss: 4.6429e-05 - val_accuracy: 1.0000
+Epoch 15/20
+ - 56s - loss: 0.0019 - accuracy: 0.9997 - val_loss: 4.3787e-05 - val_accuracy: 1.0000
+Epoch 16/20
+ - 56s - loss: 0.0018 - accuracy: 0.9996 - val_loss: 9.5233e-05 - val_accuracy: 1.0000
+Epoch 17/20
+ - 56s - loss: 0.0020 - accuracy: 0.9995 - val_loss: 8.0715e-05 - val_accuracy: 1.0000
+Epoch 18/20
+ - 59s - loss: 0.0016 - accuracy: 0.9996 - val_loss: 2.5603e-04 - val_accuracy: 1.0000
+Epoch 19/20
+ - 57s - loss: 0.0038 - accuracy: 0.9994 - val_loss: 1.9295e-04 - val_accuracy: 0.9998
+Epoch 20/20
+ - 57s - loss: 0.0017 - accuracy: 0.9997 - val_loss: 8.5660e-05 - val_accuracy: 1.0000
+
+  32/6000 [..............................] - ETA: 0s
+ 416/6000 [=>............................] - ETA: 0s
+ 768/6000 [==>...........................] - ETA: 0s
+1088/6000 [====>.........................] - ETA: 0s
+1408/6000 [======>.......................] - ETA: 0s
+1728/6000 [=======>......................] - ETA: 0s
+2048/6000 [=========>....................] - ETA: 0s
+2368/6000 [==========>...................] - ETA: 0s
+2688/6000 [============>.................] - ETA: 0s
+3008/6000 [==============>...............] - ETA: 0s
+3328/6000 [===============>..............] - ETA: 0s
+3648/6000 [=================>............] - ETA: 0s
+3968/6000 [==================>...........] - ETA: 0s
+4288/6000 [====================>.........] - ETA: 0s
+4608/6000 [======================>.......] - ETA: 0s
+4928/6000 [=======================>......] - ETA: 0s
+5248/6000 [=========================>....] - ETA: 0s
+5568/6000 [==========================>...] - ETA: 0s
+5888/6000 [============================>.] - ETA: 0s
+6000/6000 [==============================] - 1s 159us/step
+Test loss: 8.566047182323425e-05
+Test accuracy: 1.0

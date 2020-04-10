@@ -1,0 +1,33 @@
+cifar,20000,0,4
+Train on 20000 samples, validate on 2000 samples
+ - 19s - loss: 1.2196 - accuracy: 0.3848 - val_loss: 1.0617 - val_accuracy: 0.5065
+ - 19s - loss: 1.0124 - accuracy: 0.5091 - val_loss: 0.9066 - val_accuracy: 0.5535
+ - 19s - loss: 0.9060 - accuracy: 0.5681 - val_loss: 0.8182 - val_accuracy: 0.5895
+ - 19s - loss: 0.8093 - accuracy: 0.6158 - val_loss: 0.7140 - val_accuracy: 0.6555
+ - 19s - loss: 0.7290 - accuracy: 0.6569 - val_loss: 0.6281 - val_accuracy: 0.7020
+ - 19s - loss: 0.6512 - accuracy: 0.6873 - val_loss: 0.5590 - val_accuracy: 0.7555
+ - 19s - loss: 0.5743 - accuracy: 0.7351 - val_loss: 0.4750 - val_accuracy: 0.7835
+ - 19s - loss: 0.4912 - accuracy: 0.7713 - val_loss: 0.3774 - val_accuracy: 0.8400
+ - 19s - loss: 0.4355 - accuracy: 0.8083 - val_loss: 0.2862 - val_accuracy: 0.9070
+ - 19s - loss: 0.3832 - accuracy: 0.8421 - val_loss: 0.3110 - val_accuracy: 0.8630
+ - 19s - loss: 0.3167 - accuracy: 0.8665 - val_loss: 0.2188 - val_accuracy: 0.9390
+ - 19s - loss: 0.2761 - accuracy: 0.8913 - val_loss: 0.2490 - val_accuracy: 0.8980
+ - 19s - loss: 0.2330 - accuracy: 0.9093 - val_loss: 0.5185 - val_accuracy: 0.7715
+ - 19s - loss: 0.2081 - accuracy: 0.9216 - val_loss: 0.1675 - val_accuracy: 0.9295
+ - 19s - loss: 0.1844 - accuracy: 0.9320 - val_loss: 0.0916 - val_accuracy: 0.9765
+ - 19s - loss: 0.1891 - accuracy: 0.9391 - val_loss: 0.0902 - val_accuracy: 0.9710
+ - 19s - loss: 0.1617 - accuracy: 0.9432 - val_loss: 0.1213 - val_accuracy: 0.9495
+ - 19s - loss: 0.1417 - accuracy: 0.9510 - val_loss: 0.0620 - val_accuracy: 0.9810
+ - 19s - loss: 0.1325 - accuracy: 0.9548 - val_loss: 0.0697 - val_accuracy: 0.9800
+ - 19s - loss: 0.1675 - accuracy: 0.9574 - val_loss: 0.0448 - val_accuracy: 0.9860
+
+  32/2000 [..............................] - ETA: 0s
+ 384/2000 [====>.........................] - ETA: 0s
+ 704/2000 [=========>....................] - ETA: 0s
+1024/2000 [==============>...............] - ETA: 0s
+1344/2000 [===================>..........] - ETA: 0s
+1664/2000 [=======================>......] - ETA: 0s
+1984/2000 [============================>.] - ETA: 0s
+2000/2000 [==============================] - 0s 161us/step
+Test loss: 0.04477924329042435
+Test accuracy: 0.9860000014305115

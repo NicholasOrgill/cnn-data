@@ -1,0 +1,69 @@
+cifar,80000,2,2
+Train on 80000 samples, validate on 8000 samples
+Epoch 1/20
+ - 73s - loss: 0.1347 - accuracy: 0.9352 - val_loss: 0.0043 	- val_accuracy: 0.9989
+Epoch 2/20
+ - 74s - loss: 0.0064 - accuracy: 0.9976 - val_loss: 0.0013 	- val_accuracy: 0.9994
+Epoch 3/20
+ - 75s - loss: 0.0031 - accuracy: 0.9989 - val_loss: 0.0021 	- val_accuracy: 0.9992
+Epoch 4/20
+ - 73s - loss: 0.0021 - accuracy: 0.9994 - val_loss: 0.0014 	- val_accuracy: 0.9998
+Epoch 5/20
+ - 73s - loss: 0.0019 - accuracy: 0.9995 - val_loss: 0.0022 	- val_accuracy: 0.9995
+Epoch 6/20
+ - 73s - loss: 0.0021 - accuracy: 0.9995 - val_loss: 8.8208e-04 - val_accuracy: 0.9999
+Epoch 7/20
+ - 73s - loss: 0.0019 - accuracy: 0.9996 - val_loss: 7.3582e-04 - val_accuracy: 0.9999
+Epoch 8/20
+ - 73s - loss: 0.0020 - accuracy: 0.9995 - val_loss: 3.0708e-04 - val_accuracy: 0.9999
+Epoch 9/20
+ - 73s - loss: 0.0015 - accuracy: 0.9996 - val_loss: 5.7673e-04 - val_accuracy: 0.9999
+Epoch 10/20
+ - 73s - loss: 0.0014 - accuracy: 0.9996 - val_loss: 4.8778e-05 - val_accuracy: 1.0000
+Epoch 11/20
+ - 73s - loss: 0.0012 - accuracy: 0.9998 - val_loss: 9.4263e-04 - val_accuracy: 0.9999
+Epoch 12/20
+ - 73s - loss: 0.0016 - accuracy: 0.9996 - val_loss: 0.0011 	- val_accuracy: 0.9999
+Epoch 13/20
+ - 73s - loss: 0.0012 - accuracy: 0.9997 - val_loss: 2.9973e-04 - val_accuracy: 0.9999
+Epoch 14/20
+ - 73s - loss: 0.0010 - accuracy: 0.9998 - val_loss: 6.6496e-05 - val_accuracy: 1.0000
+Epoch 15/20
+ - 73s - loss: 0.0016 - accuracy: 0.9997 - val_loss: 8.9201e-04 - val_accuracy: 0.9999
+Epoch 16/20
+ - 73s - loss: 0.0016 - accuracy: 0.9997 - val_loss: 9.9167e-04 - val_accuracy: 0.9999
+Epoch 17/20
+ - 73s - loss: 0.0013 - accuracy: 0.9998 - val_loss: 2.7351e-04 - val_accuracy: 0.9999
+Epoch 18/20
+ - 73s - loss: 0.0015 - accuracy: 0.9998 - val_loss: 4.5853e-04 - val_accuracy: 0.9999
+Epoch 19/20
+ - 73s - loss: 0.0013 - accuracy: 0.9998 - val_loss: 1.1903e-04 - val_accuracy: 0.9999
+Epoch 20/20
+ - 73s - loss: 0.0015 - accuracy: 0.9997 - val_loss: 2.1467e-04 - val_accuracy: 0.9999
+
+  32/8000 [..............................] - ETA: 1s
+ 416/8000 [>.............................] - ETA: 0s
+ 832/8000 [==>...........................] - ETA: 0s
+1216/8000 [===>..........................] - ETA: 0s
+1568/8000 [====>.........................] - ETA: 0s
+1920/8000 [======>.......................] - ETA: 0s
+2272/8000 [=======>......................] - ETA: 0s
+2624/8000 [========>.....................] - ETA: 0s
+2976/8000 [==========>...................] - ETA: 0s
+3328/8000 [===========>..................] - ETA: 0s
+3680/8000 [============>.................] - ETA: 0s
+4032/8000 [==============>...............] - ETA: 0s
+4384/8000 [===============>..............] - ETA: 0s
+4736/8000 [================>.............] - ETA: 0s
+5088/8000 [==================>...........] - ETA: 0s
+5440/8000 [===================>..........] - ETA: 0s
+5792/8000 [====================>.........] - ETA: 0s
+6144/8000 [======================>.......] - ETA: 0s
+6496/8000 [=======================>......] - ETA: 0s
+6848/8000 [========================>.....] - ETA: 0s
+7200/8000 [==========================>...] - ETA: 0s
+7552/8000 [===========================>..] - ETA: 0s
+7904/8000 [============================>.] - ETA: 0s
+8000/8000 [==============================] - 1s 147us/step
+Test loss: 0.00021466881036741992
+Test accuracy: 0.999875009059906

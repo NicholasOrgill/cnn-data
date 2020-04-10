@@ -1,0 +1,60 @@
+cifar,40000,1,4
+Train on 40000 samples, validate on 4000 samples
+Epoch 1/20
+ - 37s - loss: 1.1171 - accuracy: 0.4551 - val_loss: 0.9159 - val_accuracy: 0.5625
+Epoch 2/20
+ - 38s - loss: 0.8679 - accuracy: 0.5877 - val_loss: 0.7594 - val_accuracy: 0.6338
+Epoch 3/20
+ - 38s - loss: 0.7348 - accuracy: 0.6557 - val_loss: 0.6721 - val_accuracy: 0.6683
+Epoch 4/20
+ - 38s - loss: 0.6076 - accuracy: 0.7229 - val_loss: 0.4954 - val_accuracy: 0.7885
+Epoch 5/20
+ - 38s - loss: 0.4838 - accuracy: 0.7928 - val_loss: 0.3482 - val_accuracy: 0.8725
+Epoch 6/20
+ - 38s - loss: 0.3761 - accuracy: 0.8454 - val_loss: 0.3595 - val_accuracy: 0.8450
+Epoch 7/20
+ - 38s - loss: 0.2954 - accuracy: 0.8822 - val_loss: 0.1817 - val_accuracy: 0.9417
+Epoch 8/20
+ - 38s - loss: 0.2398 - accuracy: 0.9089 - val_loss: 0.1465 - val_accuracy: 0.9550
+Epoch 9/20
+ - 38s - loss: 0.1955 - accuracy: 0.9289 - val_loss: 0.1037 - val_accuracy: 0.9725
+Epoch 10/20
+ - 38s - loss: 0.1604 - accuracy: 0.9418 - val_loss: 0.0806 - val_accuracy: 0.9783
+Epoch 11/20
+ - 38s - loss: 0.1397 - accuracy: 0.9505 - val_loss: 0.0631 - val_accuracy: 0.9812
+Epoch 12/20
+ - 38s - loss: 0.1169 - accuracy: 0.9589 - val_loss: 0.0699 - val_accuracy: 0.9775
+Epoch 13/20
+ - 38s - loss: 0.1080 - accuracy: 0.9628 - val_loss: 0.0530 - val_accuracy: 0.9812
+Epoch 14/20
+ - 38s - loss: 0.0924 - accuracy: 0.9676 - val_loss: 0.0728 - val_accuracy: 0.9743
+Epoch 15/20
+ - 38s - loss: 0.0812 - accuracy: 0.9714 - val_loss: 0.0410 - val_accuracy: 0.9855
+Epoch 16/20
+ - 38s - loss: 0.0730 - accuracy: 0.9744 - val_loss: 0.0316 - val_accuracy: 0.9890
+Epoch 17/20
+ - 38s - loss: 0.0646 - accuracy: 0.9776 - val_loss: 0.0218 - val_accuracy: 0.9927
+Epoch 18/20
+ - 38s - loss: 0.0611 - accuracy: 0.9797 - val_loss: 0.0192 - val_accuracy: 0.9945
+Epoch 19/20
+ - 39s - loss: 0.0551 - accuracy: 0.9819 - val_loss: 0.0176 - val_accuracy: 0.9950
+Epoch 20/20
+ - 40s - loss: 0.0548 - accuracy: 0.9818 - val_loss: 0.0235 - val_accuracy: 0.9933
+
+  32/4000 [..............................] - ETA: 0s
+ 352/4000 [=>............................] - ETA: 0s
+ 672/4000 [====>.........................] - ETA: 0s
+ 960/4000 [======>.......................] - ETA: 0s
+1248/4000 [========>.....................] - ETA: 0s
+1536/4000 [==========>...................] - ETA: 0s
+1824/4000 [============>.................] - ETA: 0s
+2112/4000 [==============>...............] - ETA: 0s
+2400/4000 [=================>............] - ETA: 0s
+2688/4000 [===================>..........] - ETA: 0s
+2976/4000 [=====================>........] - ETA: 0s
+3264/4000 [=======================>......] - ETA: 0s
+3552/4000 [=========================>....] - ETA: 0s
+3840/4000 [===========================>..] - ETA: 0s
+4000/4000 [==============================] - 1s 176us/step
+Test loss: 0.0234736311850138
+Test accuracy: 0.9932500123977661

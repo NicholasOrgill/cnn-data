@@ -1,0 +1,220 @@
+fashion,20000,1,3
+Train on 19000 samples, validate on 1000 samples
+Epoch 1/20
+19000/19000	6s	loss: 0.7617	acc: 0.5967	val_loss: 0.6121	val_acc: 0.6790
+Epoch 2/20
+19000/19000	6s	loss: 0.4877	acc: 0.7637	val_loss: 0.3499	val_acc: 0.8750
+Epoch 3/20
+19000/19000	6s	loss: 0.2499	acc: 0.8997	val_loss: 0.1153	val_acc: 0.9670
+Epoch 4/20
+19000/19000	6s	loss: 0.1453	acc: 0.9455	val_loss: 0.0646	val_acc: 0.9810
+Epoch 5/20
+19000/19000	6s	loss: 0.0968	acc: 0.9659	val_loss: 0.0248	val_acc: 0.9950
+Epoch 6/20
+19000/19000	6s	loss: 0.0695	acc: 0.9754	val_loss: 0.0140	val_acc: 0.9960
+Epoch 7/20
+19000/19000	6s	loss: 0.0493	acc: 0.9832	val_loss: 0.0105	val_acc: 0.9970
+Epoch 8/20
+19000/19000	6s	loss: 0.0435	acc: 0.9853	val_loss: 0.0084	val_acc: 0.9970
+Epoch 9/20
+19000/19000	6s	loss: 0.0354	acc: 0.9881	val_loss: 0.0081	val_acc: 0.9970
+Epoch 10/20
+19000/19000	6s	loss: 0.0283	acc: 0.9902	val_loss: 0.0073	val_acc: 0.9970
+Epoch 11/20
+19000/19000	6s	loss: 0.0276	acc: 0.9902	val_loss: 0.0049	val_acc: 0.9980
+Epoch 12/20
+19000/19000	6s	loss: 0.0226	acc: 0.9927	val_loss: 0.0078	val_acc: 0.9940
+Epoch 13/20
+19000/19000	6s	loss: 0.0195	acc: 0.9937	val_loss: 0.0046	val_acc: 0.9980
+Epoch 14/20
+19000/19000	6s	loss: 0.0200	acc: 0.9936	val_loss: 0.0039	val_acc: 0.9980
+Epoch 15/20
+19000/19000	6s	loss: 0.0147	acc: 0.9955	val_loss: 0.0027	val_acc: 0.9980
+Epoch 16/20
+19000/19000	6s	loss: 0.0168	acc: 0.9945	val_loss: 0.0015	val_acc: 1.0000
+Epoch 17/20
+19000/19000	6s	loss: 0.0133	acc: 0.9960	val_loss: 0.0039	val_acc: 0.9970
+Epoch 18/20
+19000/19000	6s	loss: 0.0131	acc: 0.9954	val_loss: 0.0021	val_acc: 0.9980
+Epoch 19/20
+19000/19000	6s	loss: 0.0098	acc: 0.9970	val_loss: 0.0026	val_acc: 0.9980
+Epoch 20/20
+19000/19000	6s	loss: 0.0110	acc: 0.9963	val_loss: 0.0038	val_acc: 0.9980
+
+ Test accuracy: 1.0
+fashion,40000,1,3
+Train on 38000 samples, validate on 2000 samples
+Epoch 1/20
+38000/38000	11s	loss: 0.5812	acc: 0.7124	val_loss: 0.1648	val_acc: 0.9490
+Epoch 2/20
+38000/38000	11s	loss: 0.1360	acc: 0.9498	val_loss: 0.0206	val_acc: 0.9955
+Epoch 3/20
+38000/38000	11s	loss: 0.0572	acc: 0.9805	val_loss: 0.0089	val_acc: 0.9970
+Epoch 4/20
+38000/38000	11s	loss: 0.0384	acc: 0.9866	val_loss: 0.0054	val_acc: 0.9985
+Epoch 5/20
+38000/38000	11s	loss: 0.0288	acc: 0.9901	val_loss: 0.0031	val_acc: 1.0000
+Epoch 6/20
+38000/38000	11s	loss: 0.0237	acc: 0.9919	val_loss: 0.0037	val_acc: 0.9990
+Epoch 7/20
+38000/38000	11s	loss: 0.0203	acc: 0.9933	val_loss: 0.0029	val_acc: 0.9985
+Epoch 8/20
+38000/38000	11s	loss: 0.0179	acc: 0.9938	val_loss: 0.0014	val_acc: 1.0000
+Epoch 9/20
+38000/38000	11s	loss: 0.0157	acc: 0.9949	val_loss: 0.0015	val_acc: 0.9990
+Epoch 10/20
+38000/38000	12s	loss: 0.0131	acc: 0.9956	val_loss: 9.2491e-04	val_acc: 1.0000
+Epoch 11/20
+38000/38000	11s	loss: 0.0130	acc: 0.9956	val_loss: 9.3948e-04	val_acc: 1.0000
+Epoch 12/20
+38000/38000	11s	loss: 0.0127	acc: 0.9957	val_loss: 5.6893e-04	val_acc: 1.0000
+Epoch 13/20
+38000/38000	11s	loss: 0.0115	acc: 0.9961	val_loss: 9.3770e-04	val_acc: 1.0000
+Epoch 14/20
+38000/38000	11s	loss: 0.0095	acc: 0.9969	val_loss: 4.8772e-04	val_acc: 1.0000
+Epoch 15/20
+38000/38000	11s	loss: 0.0090	acc: 0.9969	val_loss: 6.3293e-04	val_acc: 0.9995
+Epoch 16/20
+38000/38000	11s	loss: 0.0096	acc: 0.9970	val_loss: 1.9232e-04	val_acc: 1.0000
+Epoch 17/20
+38000/38000	11s	loss: 0.0095	acc: 0.9969	val_loss: 3.7014e-04	val_acc: 1.0000
+Epoch 18/20
+38000/38000	11s	loss: 0.0070	acc: 0.9975	val_loss: 4.9133e-04	val_acc: 1.0000
+Epoch 19/20
+38000/38000	11s	loss: 0.0062	acc: 0.9980	val_loss: 9.6435e-05	val_acc: 1.0000
+Epoch 20/20
+38000/38000	11s	loss: 0.0083	acc: 0.9974	val_loss: 1.8401e-04	val_acc: 1.0000
+
+ Test accuracy: 0.99975
+fashion,60000,1,3
+Train on 57000 samples, validate on 3000 samples
+Epoch 1/20
+57000/57000	17s	loss: 0.4430	acc: 0.7872	val_loss: 0.0440	val_acc: 0.9917
+Epoch 2/20
+57000/57000	17s	loss: 0.0686	acc: 0.9759	val_loss: 0.0060	val_acc: 0.9997
+Epoch 3/20
+57000/57000	17s	loss: 0.0334	acc: 0.9885	val_loss: 0.0036	val_acc: 0.9993
+Epoch 4/20
+57000/57000	17s	loss: 0.0250	acc: 0.9914	val_loss: 0.0015	val_acc: 0.9997
+Epoch 5/20
+57000/57000	17s	loss: 0.0193	acc: 0.9933	val_loss: 0.0014	val_acc: 0.9997
+Epoch 6/20
+57000/57000	17s	loss: 0.0160	acc: 0.9944	val_loss: 6.1622e-04	val_acc: 1.0000
+Epoch 7/20
+57000/57000	17s	loss: 0.0122	acc: 0.9957	val_loss: 2.9965e-04	val_acc: 1.0000
+Epoch 8/20
+57000/57000	17s	loss: 0.0119	acc: 0.9960	val_loss: 2.7349e-04	val_acc: 1.0000
+Epoch 9/20
+57000/57000	17s	loss: 0.0092	acc: 0.9968	val_loss: 1.6917e-04	val_acc: 1.0000
+Epoch 10/20
+57000/57000	17s	loss: 0.0073	acc: 0.9976	val_loss: 9.1530e-05	val_acc: 1.0000
+Epoch 11/20
+57000/57000	17s	loss: 0.0069	acc: 0.9976	val_loss: 5.6613e-05	val_acc: 1.0000
+Epoch 12/20
+57000/57000	17s	loss: 0.0066	acc: 0.9976	val_loss: 7.3988e-05	val_acc: 1.0000
+Epoch 13/20
+57000/57000	17s	loss: 0.0050	acc: 0.9984	val_loss: 6.6581e-05	val_acc: 1.0000
+Epoch 14/20
+57000/57000	17s	loss: 0.0054	acc: 0.9981	val_loss: 4.6012e-05	val_acc: 1.0000
+Epoch 15/20
+57000/57000	17s	loss: 0.0053	acc: 0.9982	val_loss: 8.2314e-06	val_acc: 1.0000
+Epoch 16/20
+57000/57000	17s	loss: 0.0050	acc: 0.9984	val_loss: 1.1459e-05	val_acc: 1.0000
+Epoch 17/20
+57000/57000	17s	loss: 0.0034	acc: 0.9988	val_loss: 5.9335e-06	val_acc: 1.0000
+Epoch 18/20
+57000/57000	17s	loss: 0.0045	acc: 0.9985	val_loss: 1.4818e-04	val_acc: 1.0000
+Epoch 19/20
+57000/57000	17s	loss: 0.0047	acc: 0.9986	val_loss: 5.8924e-06	val_acc: 1.0000
+Epoch 20/20
+57000/57000	17s	loss: 0.0038	acc: 0.9988	val_loss: 2.0477e-05	val_acc: 1.0000
+
+ Test accuracy: 1.0
+fashion,80000,1,3
+Train on 76000 samples, validate on 4000 samples
+Epoch 1/20
+76000/76000	22s	loss: 0.4002	acc: 0.8077	val_loss: 0.0317	val_acc: 0.9923
+Epoch 2/20
+76000/76000	23s	loss: 0.0553	acc: 0.9802	val_loss: 0.0054	val_acc: 0.9990
+Epoch 3/20
+76000/76000	23s	loss: 0.0280	acc: 0.9903	val_loss: 0.0022	val_acc: 0.9992
+Epoch 4/20
+76000/76000	23s	loss: 0.0193	acc: 0.9937	val_loss: 0.0013	val_acc: 0.9998
+Epoch 5/20
+76000/76000	23s	loss: 0.0140	acc: 0.9951	val_loss: 5.7696e-04	val_acc: 1.0000
+Epoch 6/20
+76000/76000	23s	loss: 0.0115	acc: 0.9959	val_loss: 4.5874e-04	val_acc: 1.0000
+Epoch 7/20
+76000/76000	23s	loss: 0.0088	acc: 0.9969	val_loss: 4.0158e-04	val_acc: 1.0000
+Epoch 8/20
+76000/76000	23s	loss: 0.0078	acc: 0.9976	val_loss: 2.0992e-04	val_acc: 1.0000
+Epoch 9/20
+76000/76000	23s	loss: 0.0067	acc: 0.9978	val_loss: 1.8374e-04	val_acc: 1.0000
+Epoch 10/20
+76000/76000	23s	loss: 0.0047	acc: 0.9983	val_loss: 1.6568e-04	val_acc: 1.0000
+Epoch 11/20
+76000/76000	23s	loss: 0.0049	acc: 0.9984	val_loss: 2.4697e-04	val_acc: 1.0000
+Epoch 12/20
+76000/76000	23s	loss: 0.0044	acc: 0.9985	val_loss: 7.8589e-05	val_acc: 1.0000
+Epoch 13/20
+76000/76000	23s	loss: 0.0038	acc: 0.9988	val_loss: 3.5944e-05	val_acc: 1.0000
+Epoch 14/20
+76000/76000	23s	loss: 0.0034	acc: 0.9989	val_loss: 2.4374e-05	val_acc: 1.0000
+Epoch 15/20
+76000/76000	23s	loss: 0.0033	acc: 0.9990	val_loss: 1.2596e-05	val_acc: 1.0000
+Epoch 16/20
+76000/76000	23s	loss: 0.0034	acc: 0.9989	val_loss: 2.6976e-05	val_acc: 1.0000
+Epoch 17/20
+76000/76000	23s	loss: 0.0035	acc: 0.9990	val_loss: 2.3608e-05	val_acc: 1.0000
+Epoch 18/20
+76000/76000	23s	loss: 0.0028	acc: 0.9991	val_loss: 3.6067e-05	val_acc: 1.0000
+Epoch 19/20
+76000/76000	23s	loss: 0.0024	acc: 0.9992	val_loss: 2.1526e-05	val_acc: 1.0000
+Epoch 20/20
+76000/76000	23s	loss: 0.0029	acc: 0.9991	val_loss: 9.3420e-06	val_acc: 1.0000
+
+ Test accuracy: 1.0
+fashion,100000,1,3
+Train on 95000 samples, validate on 5000 samples
+Epoch 1/20
+95000/95000	28s	loss: 0.3349	acc: 0.8407	val_loss: 0.0161	val_acc: 0.9976
+Epoch 2/20
+95000/95000	29s	loss: 0.0449	acc: 0.9840	val_loss: 0.0054	val_acc: 0.9992
+Epoch 3/20
+95000/95000	29s	loss: 0.0244	acc: 0.9913	val_loss: 0.0014	val_acc: 0.9996
+Epoch 4/20
+95000/95000	29s	loss: 0.0168	acc: 0.9944	val_loss: 0.0010	val_acc: 0.9996
+Epoch 5/20
+95000/95000	29s	loss: 0.0123	acc: 0.9960	val_loss: 2.0951e-04	val_acc: 1.0000
+Epoch 6/20
+95000/95000	29s	loss: 0.0090	acc: 0.9968	val_loss: 1.4788e-04	val_acc: 1.0000
+Epoch 7/20
+95000/95000	29s	loss: 0.0076	acc: 0.9975	val_loss: 3.3525e-05	val_acc: 1.0000
+Epoch 8/20
+95000/95000	29s	loss: 0.0064	acc: 0.9978	val_loss: 4.8890e-05	val_acc: 1.0000
+Epoch 9/20
+95000/95000	29s	loss: 0.0059	acc: 0.9979	val_loss: 1.0976e-04	val_acc: 1.0000
+Epoch 10/20
+95000/95000	29s	loss: 0.0055	acc: 0.9982	val_loss: 9.4726e-05	val_acc: 1.0000
+Epoch 11/20
+95000/95000	29s	loss: 0.0041	acc: 0.9987	val_loss: 4.7402e-06	val_acc: 1.0000
+Epoch 12/20
+95000/95000	29s	loss: 0.0042	acc: 0.9987	val_loss: 3.3850e-06	val_acc: 1.0000
+Epoch 13/20
+95000/95000	29s	loss: 0.0042	acc: 0.9987	val_loss: 1.1242e-05	val_acc: 1.0000
+Epoch 14/20
+95000/95000	28s	loss: 0.0033	acc: 0.9990	val_loss: 3.2281e-06	val_acc: 1.0000
+Epoch 15/20
+95000/95000	28s	loss: 0.0038	acc: 0.9988	val_loss: 4.6610e-06	val_acc: 1.0000
+Epoch 16/20
+95000/95000	29s	loss: 0.0028	acc: 0.9992	val_loss: 3.0577e-06	val_acc: 1.0000
+Epoch 17/20
+95000/95000	28s	loss: 0.0031	acc: 0.9990	val_loss: 3.1132e-06	val_acc: 1.0000
+Epoch 18/20
+95000/95000	28s	loss: 0.0039	acc: 0.9988	val_loss: 3.6062e-06	val_acc: 1.0000
+Epoch 19/20
+95000/95000	28s	loss: 0.0029	acc: 0.9992	val_loss: 2.3438e-06	val_acc: 1.0000
+Epoch 20/20
+95000/95000	28s	loss: 0.0028	acc: 0.9991	val_loss: 1.7556e-06	val_acc: 1.0000
+
+ Test accuracy: 1.0
